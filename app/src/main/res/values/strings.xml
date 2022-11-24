@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PruebaAndroid</string>
+    <string name="label_mi_loalizacion">Mi loalizacion</string>
+    <string name="label_tomar_foto">Tomar Foto</string>
+    <string name="label_tomar_foto_land">Tomar \n Foto</string>
+    <string name="preference_file_key">my_preference</string>
+</resources>
